@@ -6,7 +6,7 @@
 - Event Name: College Cultural Fest
 - Venue: College Auditorium
 - Date: To be announced
-- Organized By: B.Tech Artificial Intelligence & Data Science
+- Organized By: Bsc.Information Technology 
 
 ## 2. Event Objectives
 
